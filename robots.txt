@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delfinobiang.github.io/archive-ewcst4/sitemap.xml
